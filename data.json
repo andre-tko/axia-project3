@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "location": "Remote",
+        "category": "Web Development"
+    },
+    {
+        "title": "UI/UX Designer",
+        "company": "Design Studio",
+        "location": "New York, USA",
+        "category": "Design"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeBase",
+        "location": "Berlin, Germany",
+        "category": "Web Development"
+    },
+    {
+        "title": "Product Manager",
+        "company": "Innovate Ltd.",
+        "location": "London, UK",
+        "category": "Management"
+    }
+]
