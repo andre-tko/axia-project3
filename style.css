@@ -1,3 +1,4 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     background-color: #f8f9fa;
 }
 
+/* Header Styles */
 header {
     display: flex;
     justify-content: space-between;
@@ -42,6 +44,7 @@ header {
     font-size: 24px;
 }
 
+/* Hero Section Styles */
 .hero {
     text-align: center;
     padding: 60px 20px;
@@ -57,7 +60,7 @@ header {
     font-size: 18px;
 }
 
-
+/* Filter Container Styles */
 .filter-container {
     text-align: center;
     margin: 20px;
@@ -68,6 +71,7 @@ select {
     font-size: 16px;
 }
 
+/* Job Listings Styles */
 .job-listings {
     display: flex;
     flex-wrap: wrap;
@@ -94,6 +98,7 @@ select {
     font-size: 14px;
 }
 
+/* Footer Styles */
 footer {
     text-align: center;
     background-color: #2c3e50;
@@ -101,7 +106,7 @@ footer {
     padding: 15px;
 }
 
-/* Responsive */
+/* Responsive Styles */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
